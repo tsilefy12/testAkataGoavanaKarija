@@ -1,0 +1,1 @@
+const requeteSql="SELECT * FROM resultat_examen WHERE code_matiere='ALG' AND note > 10";
